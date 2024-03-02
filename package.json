@@ -1,6 +1,7 @@
 {
-  "name": "react-app",
+  "name": "react-app", 
   "private": true,
+  "homepage": "http://anand311203.github.io/reactapp",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
